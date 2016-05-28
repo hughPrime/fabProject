@@ -6,7 +6,7 @@ var img, bodyImg;
 
 function preload() {
   img = loadImage("navFlow.png");
-  bodyImg = loadImage("https://s-media-cache-ak0.pinimg.com/564x/48/82/02/48820211862e10ba6db3ebfd202543c6.jpg")
+  bodyImg = loadImage("test.jpg")
 }
 
 function setup() {
